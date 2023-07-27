@@ -1,1 +1,1 @@
-#[Simon game](https://vikasbisariya-dev.github.io/Simon-game/)
+[Simon game](https://vikasbisariya-dev.github.io/Simon-game/)
